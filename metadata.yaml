@@ -1,0 +1,31 @@
+_repo: Fred-Fearnot-s-New-Ranch--13-and-How-He-and-Terry-Managed-It_21795
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shackleford, H. K. (Harvey King)
+    aliases:
+    - Shackleford, Harvey King
+    - Standish, Hal
+    birthdate: 1841
+    deathdate: 1906
+    gutenberg_agent_id: '24997'
+    url: http://www.gutenberg.org/2009/agents/24997
+description: ''
+gutenberg_issued: '2007-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young men -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Ranch life -- Juvenile fiction'
+title: "Fred Fearnot's New Ranch\r\nand How He and Terry Managed It"
+url: http://www.gutenberg.org/ebooks/21795
